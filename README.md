@@ -1,11 +1,11 @@
-# Hi there 👋
+<h1> Hi there 👋, I'm `pM` </h1>
 
 <!-- Profile Views (currently commented)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pmnerfed" alt="pmnerfed" /> </p> -->
 ## 👨🏻‍💻 &nbsp;About Me
 
 💡  &nbsp;I like to explore new technologies and read new research in ML space.  
-🌱 &nbsp;I’m currently learning system design for distributed computing.  
+🌱 &nbsp;I’m currently interested in system design for distributed systems.  
 🎓 &nbsp;I'm currently persuing at MSc Financial Engineering from World Quant University.  
 
 💬 &nbsp;If you have any question/feedback, please do not hesitate to reach out to me!
