@@ -1,4 +1,4 @@
-<h1> Hi there 👋, I'm `pM` </h1>
+<center><h1> Hi there 👋, I'm `pM` </h1></center>
 
 <!-- Profile Views (currently commented)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pmnerfed" alt="pmnerfed" /> </p> -->
