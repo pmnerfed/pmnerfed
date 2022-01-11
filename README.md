@@ -1,15 +1,15 @@
-<center><h1> Hi there 👋, I'm `pM` </h1></center>
+<center><h1> img src="https://raw.githubusercontent.com/vitasha10/vitasha10/main/assets/Hand%20Wave.gif" width="33"/> Hi there 👋, I'm `pM` </h1></center>
 
 <!-- Profile Views (currently commented)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pmnerfed" alt="pmnerfed" /> </p> -->
+
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡  &nbsp;I like to explore new technologies and read new research in ML space.  
+💡 &nbsp;I like to explore new technologies and read new research in ML space.  
 🌱 &nbsp;I’m currently interested in system design for distributed systems.  
-🎓 &nbsp;I'm currently persuing at MSc Financial Engineering from World Quant University.  
+🎓 &nbsp;I'm currently persuing at MSc Financial Engineering from World Quant University.
 
 💬 &nbsp;If you have any question/feedback, please do not hesitate to reach out to me!
-
 
 <!--
 **pmnerfed/pmnerfed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ### 🧰 &nbsp;Tech Stack
 
 <img src="https://raw.githubusercontent.com/vitasha10/vitasha10/master/assets/Night-Coding.gif" align="right"/>
@@ -36,12 +37,10 @@ Here are some ideas to get you started:
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)&nbsp;
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)&nbsp;
 
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 ![Fast API](https://img.shields.io/badge/Fast_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
@@ -55,9 +54,10 @@ Databases worked with:
 <details>
 <summary><b>Other Tools and Languages<b></summary>
 
-<!-- 
+<!--
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=SonarQube&logoColor=white)&nbsp;
 -->
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;  
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
@@ -65,10 +65,8 @@ Databases worked with:
 ![GNU Emacs](https://img.shields.io/badge/GNU_EMACS-7F5AB6?style=for-the-badge&logo=gnuemacs&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
 
-
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
@@ -89,14 +87,19 @@ Databases worked with:
   </a>
 </p>
 
-## 📫 &nbsp;How to reach me
+## 🤝🏻 &nbsp;Connect with me
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/puneetmadaan164/)&nbsp;&nbsp; [![Gmail Badge](https://img.shields.io/badge/-Mail-8B89CC?style=for-the-badge&logo=ProtonMail&logoColor=white&logoWidth=20&link=mailto:pmnerfed@protonmail.com)](mailto:pmnerfed@protonmail.com)&nbsp;&nbsp;
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/puneetmadaan164/)&nbsp;&nbsp; [![Gmail Badge](https://img.shields.io/badge/-Mail-8B89CC?style=for-the-badge&logo=ProtonMail&logoColor=white&logoWidth=20&link=mailto:pmnerfed@protonmail.com)](mailto:pmnerfed@protonmail.com)&nbsp;&nbsp;
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) -->
 
+<p align="center">
+<a src="https://www.linkedin.com/in/puneetmadaan164/">
+<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link="/></a>
+<a href="mailto:pmnerfed@protonmail.com"><img src="https://img.shields.io/badge/-Mail-8B89CC?style=for-the-badge&logo=ProtonMail&logoColor=white&logoWidth=20&link=mailto:pmnerfed@protonmail.com"/></a>
+<a><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+</p>
 
 
 <center>
-<img src="https://ForTheBadge.com/images/badges/built-with-love.svg"/>
+<img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
 </center>
-
