@@ -1,4 +1,4 @@
-<h1> Hi there!<img src="https://raw.githubusercontent.com/vitasha10/vitasha10/main/assets/Hand%20Wave.gif" width="40"/> I'm <code>pMnerfed</code> </h1>
+<h1> Hi there!<img src="https://raw.githubusercontent.com/pmnerfed/pmnerfed/main/assets/Hand%20Wave.gif" width="40"/> I'm <code>pMnerfed</code> </h1>
 
 <!-- Profile Views (currently commented)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pmnerfed" alt="pmnerfed" /> </p> -->
@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🧰 &nbsp;Tech Stack
-
-<img src="https://raw.githubusercontent.com/vitasha10/vitasha10/master/assets/Night-Coding.gif" align="right"/>
+## 🧰 &nbsp;Tech Stack
+&nbsp;
+<img src="https://raw.githubusercontent.com/pmnerfed/pmnerfed/master/assets/Night-Coding.gif" align="right"/>
 
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&logoWidth=20)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&logoWidth=20)&nbsp;
@@ -71,17 +71,20 @@ Databases worked with:
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
 </details>
+&nbsp;
 
-<hr>
+---
+
+&nbsp;
 
 ## ⚙️ &nbsp;Github Stats
 
 <p align="center">
 <a href="https://github.com/vitasha10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pmnerfed&include_all_commits=true&show_icons=true&theme=dracula&count_private=true&hide=contribs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmnerfed&layout=compact&theme=dracula"/> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pmnerfed&include_all_commits=true&show_icons=true&theme=dracula&count_private=true&hide=contribs"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmnerfed&layout=compact&theme=dracula"/> 
   <br/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pmnerfed&theme=dracula&hide_border=true&background=1a1b27"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=pmnerfed&theme=dracula&hide_border=true&background=1a1b27"/>
   <br/>
   <!-- <img src="https://github-profile-trophy.vercel.app/?username=pmnerfed&theme=onedark&column=4&margin-w=5&margin-h=30"/> -->
   </a>
@@ -99,7 +102,9 @@ Databases worked with:
 <a><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </p>
 
-
+---
+&nbsp;  
+&nbsp;  
 <p align="center">
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
 </p>
