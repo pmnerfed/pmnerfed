@@ -3,7 +3,7 @@
 <!-- Profile Views (currently commented)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pmnerfed" alt="pmnerfed" /> </p> -->
 
-## 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and read new research in ML space.  
 🌱 &nbsp;I’m currently interested in system design for distributed systems.  
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🧰 &nbsp;Tech Stack
-&nbsp;
+
 <img src="https://raw.githubusercontent.com/pmnerfed/pmnerfed/master/assets/Night-Coding.gif" align="right"/>
 
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&logoWidth=20)&nbsp;
