@@ -1,4 +1,4 @@
-<center><h1> img src="https://raw.githubusercontent.com/vitasha10/vitasha10/main/assets/Hand%20Wave.gif" width="33"/> Hi there 👋, I'm `pM` </h1></center>
+<h1> Hi there!<img src="https://raw.githubusercontent.com/vitasha10/vitasha10/main/assets/Hand%20Wave.gif" width="40"/> I'm <code>pMnerfed</code> </h1>
 
 <!-- Profile Views (currently commented)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pmnerfed" alt="pmnerfed" /> </p> -->
@@ -100,6 +100,6 @@ Databases worked with:
 </p>
 
 
-<center>
+<p align="center">
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
-</center>
+</p>
