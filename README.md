@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## 🧰 &nbsp;Tech Stack
 
-<img  height="230em" src="https://raw.githubusercontent.com/pmnerfed/pmnerfed/master/assets/Night-Coding.gif" align="right"/>
+<img  height="226em" src="https://raw.githubusercontent.com/pmnerfed/pmnerfed/master/assets/Night-Coding.gif" align="right"/>
 
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&logoWidth=20)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&logoWidth=20)&nbsp;
