@@ -80,7 +80,7 @@ Databases worked with:
 ## ⚙️ &nbsp;Github Stats
 
 <p align="center">
-<a href="https://github.com/vitasha10">
+<a href="https://github.com/pmnerfed">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pmnerfed&include_all_commits=true&show_icons=true&theme=dracula&count_private=true&hide=contribs"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmnerfed&layout=compact&theme=dracula"/> 
   <br/>
