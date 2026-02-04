@@ -7,7 +7,7 @@
 
 💡 &nbsp;I like to explore new technologies and read new research in ML space.  
 🌱 &nbsp;I’m currently interested in system design for distributed systems.  
-🎓 &nbsp;I'm currently persuing at MSc Financial Engineering from World Quant University.
+
 
 💬 &nbsp;If you have any question/feedback, please do not hesitate to reach out to me!
 
