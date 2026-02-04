@@ -52,10 +52,3 @@ Here are some ideas to get you started:
 <a href="mailto:pmnerfed@protonmail.com"><img src="https://img.shields.io/badge/-Mail-8B89CC?style=for-the-badge&logo=ProtonMail&logoColor=white&logoWidth=20&link=mailto:pmnerfed@protonmail.com"/></a>
 <a><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </p>
-
----
-&nbsp;  
-&nbsp;  
-<p align="center">
-<img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
-</p>
