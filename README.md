@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <br/>
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=pmnerfed&theme=dracula&hide_border=true&background=1a1b27"/>
   <br/>
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=pmnerfed&theme=onedark&column=4&margin-w=5&margin-h=30"/> -->
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=pmnerfed&theme=onedark&column=4&margin-w=5&margin-h=30"/> ->
   </a>
 </p> -->
 
