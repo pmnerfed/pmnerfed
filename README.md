@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ## ⚙️ &nbsp;Github Stats
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/pmnerfed">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pmnerfed&include_all_commits=true&show_icons=true&theme=dracula&count_private=true&hide=contribs"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmnerfed&layout=compact&theme=dracula"/> 
@@ -39,7 +39,9 @@ Here are some ideas to get you started:
   <br/>
   <!-- <img src="https://github-profile-trophy.vercel.app/?username=pmnerfed&theme=onedark&column=4&margin-w=5&margin-h=30"/> -->
   </a>
-</p>
+</p> -->
+
+![Stats](./profile/stats.svg)
 
 ## 🤝🏻 &nbsp;Connect with me
 
